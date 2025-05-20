@@ -1,0 +1,24 @@
+.dev-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* centraliza verticalmente */
+    color: white;
+    text-align: center;
+  }
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color: #23422e;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  li {
+    margin: 4px 0;
+  }
+  
